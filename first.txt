@@ -7,3 +7,5 @@ gitの練習をしていく
 追加２
 
 git status
+
+gitdiff
